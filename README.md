@@ -15,7 +15,7 @@ A PowerShell script to easily manage often used tasks in an DHCP Scope
 **Screenshots**  
 Menu of running the script
 
-![alt tag](images/demo.png)
+![alt tag](images/menu_demo.png)
 
 **Changelog**  
 * 10.07.2018
