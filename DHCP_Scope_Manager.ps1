@@ -4,14 +4,14 @@
   The purpose of this script is to easily manage often used tasks
   in an DHCP Scope on a Windows server without the need of GUI.
 .DESCRIPTION
-  This scipt is ment to run directly on the HDCP server to manage
-  an HDCP scope as an alternative to the default DHCP GUI interface.
+  This scipt is ment to run directly on the DHCP server to manage
+  an DHCP scope as an alternative to the default DHCP GUI interface.
   The biggest advantage is the ability to search rather than look
   in lists for specific IP addresses or Client IDs.
   Currently only supports IPv4.
   The DhcpServer module is required for this script to run.
 .NOTES
-  Original release Date: 10.07.2018
+  Original release Date: 10.07.2018 Updated: 11.07.2018
   Author: Flemming Sørvollen Skaret (https://github.com/flemmingss/)
 .LINK
   https://github.com/flemmingss/
