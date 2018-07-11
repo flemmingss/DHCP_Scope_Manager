@@ -2,7 +2,7 @@
 A PowerShell script to easily manage often used tasks in an DHCP Scope
 
 **Description**  
-  This scipt is ment to run directly on the HDCP server to manage an HDCP scope as an alternative to the default DHCP GUI interface.
+  This scipt is ment to run directly on the DHCP server to manage an DHCP scope as an alternative to the default DHCP GUI interface.
   The biggest advantage is the ability to search rather than look in lists for specific IP addresses or Client IDs.
   Currently only supports IPv4.
   
